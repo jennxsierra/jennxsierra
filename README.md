@@ -10,7 +10,7 @@ I'm a passionate university student from Belize, on a relentless quest to explor
 
 Currently, you'll find me juggling between coding projects, leveling up my programming skills, and exploring the vast realms of technology. I'm on a mission to become a skilled software engineer and, ultimately, create my own gaming masterpiece.
 
-[![Jenn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&hide_progress=true&langs_count=8)](https://github.com/jennxsierra/github-readme-stats)
+[![Jenn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&hide_progress=true&langs_count=&custom_title="Jenn's_Wakatime_Stats")](https://wakatime.com/@jennxsierra)
 
 🚀 My Passions:
 - Gaming Culture & History
