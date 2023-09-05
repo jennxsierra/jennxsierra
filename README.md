@@ -1,11 +1,11 @@
-### 👩‍💻 Hey there, I'm Jenn!
+### 👩🏽‍💻 Hey there, I'm Jenn!
 
 ![ProfileViewCount](https://komarev.com/ghpvc/?username=jennxsierra&color=blue&style=plastic)
 [![wakatime](https://wakatime.com/badge/user/784f2cc4-fc95-4999-a214-1dcf7be5d55b.svg?style=plastic)](https://wakatime.com/@784f2cc4-fc95-4999-a214-1dcf7be5d55b)
 
-🎮 Gaming Enthusiast | 🌐 IT Student | 💻 Aspiring Software Engineer
+🕹️ Gaming Enthusiast | 🌐 IT Student | 💻 Aspiring Software Engineer
 
-🌟 About Me:
+💭 About Me:
 
 I'm a passionate university student from Belize, on a relentless quest to explore the ever-evolving realms of Information Technology. My journey began with a love for gaming, both retro and modern. I could chat about the gaming atmosphere for hours, from the nostalgic classics to the cutting-edge innovations of today.
 
@@ -13,7 +13,7 @@ I'm a passionate university student from Belize, on a relentless quest to explor
 
 Currently, you'll find me juggling between coding projects, leveling up my programming skills, and exploring the vast realms of technology. I'm on a mission to become a skilled software engineer and, ultimately, create my own gaming masterpiece.
 
-[![Jenn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&langs_count=8&theme=nightowl&hide=GitIgnorefile)](https://wakatime.com/@jennxsierra)
+[![Jenn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&langs_count=8&theme=nightowl)](https://wakatime.com/@jennxsierra)
 
 🚀 My Passions:
 - Gaming Culture & History
