@@ -8,18 +8,14 @@ I'm a passionate university student from Belize, on a relentless quest to explor
 
 💾 What I'm Up To:
 
-<!--START_SECTION:waka-->
-
-```txt
-C++              21 mins         ███████████████▓░░░░░░░░░   62.98 %
-GitIgnore file   12 mins         █████████▒░░░░░░░░░░░░░░░   36.89 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Ezhil            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
 Currently, you'll find me juggling between coding projects, leveling up my programming skills, and exploring the vast realms of technology. I'm on a mission to become a skilled software engineer and, ultimately, create my own gaming masterpiece.
+
+<a href="https://github.com/jennxsierra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&langs_count=8" />
+</a>
+<a href="https://github.com/jennxsierra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennxsierra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 🚀 My Passions:
 - Gaming Culture & History
