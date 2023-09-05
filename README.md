@@ -8,11 +8,14 @@ I'm a passionate university student from Belize, on a relentless quest to explor
 
 💾 What I'm Up To:
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Currently, you'll find me juggling between coding projects, leveling up my programming skills, and exploring the vast realms of technology. I'm on a mission to become a skilled software engineer and, ultimately, create my own gaming masterpiece.
 
 🚀 My Passions:
 - Gaming Culture & History
-- Programming (Python, Java, and more!)
+- Programming (C++, Python, Java, and more!)
 - Web Development
 - Game Development
 - Open Source Contributions
@@ -28,6 +31,3 @@ If you're as excited about tech, gaming or coding as I am, let's connect and emb
 📚 Learning never exhausts the mind - Leonardo da Vinci
 
 #GameOn #CodeLife #DreamBig
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
