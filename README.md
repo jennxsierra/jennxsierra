@@ -29,8 +29,5 @@ If you're as excited about tech, gaming or coding as I am, let's connect and emb
 
 #GameOn #CodeLife #DreamBig
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
-<!--
-**jennxsierra/jennxsierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
