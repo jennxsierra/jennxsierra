@@ -17,7 +17,7 @@ Currently, you'll find me juggling between coding projects, leveling up my progr
 
 🚀 My Passions:
 - Gaming Culture & History
-- Programming (C++, Python, Java, and more!)
+- Programming (C++, HTML, CSS, JavaScript, and more!)
 - Web Development
 - Game Development
 - Open Source Contributions
