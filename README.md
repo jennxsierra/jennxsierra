@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/784f2cc4-fc95-4999-a214-1dcf7be5d55b.svg?style=plastic)](https://wakatime.com/@784f2cc4-fc95-4999-a214-1dcf7be5d55b)
 
-🕹️ Gaming Enthusiast | 🌐 IT Student | 💻 Aspiring Software Engineer
+🕹️ Gaming Enthusiast | 🌐 IT Student | 💻 Aspiring Software Developer
 
 💭 About Me:
 
