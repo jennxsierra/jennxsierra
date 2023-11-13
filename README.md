@@ -6,7 +6,7 @@
 
 ### 💭 About Me:
 
-I'm currently pursuing my Bachelor's Degree in Information Technology at the Univeristy of Belize. Currently, you'll find me juggling between coding projects, leveling up my programming skills, and exploring the vast realms of tech.
+I'm currently pursuing my Bachelor's Degree in Information Technology at the University of Belize. Currently, you'll find me juggling between coding projects, leveling up my programming skills, and exploring the vast realms of tech.
 
 ### 🚀 My Passions:
 - Gaming Culture & History
