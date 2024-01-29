@@ -16,7 +16,7 @@ I'm currently pursuing my Bachelor's Degree in Information Technology at the Uni
 - Open Source Contributions
 
 ### 💡 Learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,postgres,git,md)](https://skillicons.dev)
 
 ### 🧾 Learning Queue:
 [![My Skills](https://skillicons.dev/icons?i=cs,py,tailwind,react)](https://skillicons.dev)
