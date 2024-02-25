@@ -17,7 +17,7 @@ I'm currently pursuing my Bachelor's Degree in Information Technology at the Uni
 
 ## 💡 Skills & Experience:
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,postgres,git,md)](https://skillicons.dev)   
-[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&theme=github_dark&langs_count=8&layout=compact)](https://wakatime.com/@jennxsierra)
+[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=8)](https://wakatime.com/@jennxsierra)
 
 ## 🧾 Learning Queue:
 [![My Skills](https://skillicons.dev/icons?i=cs,py,tailwind,react)](https://skillicons.dev)
