@@ -17,7 +17,7 @@
     </dl>  
 </dt>
 
-## All Time Favorites <img src="https://i.imgur.com/ktPqhMG.gif" height="15px">
+## All Time Favorites <img src="https://shorturl.at/i9PIv" height="18px">
 
 <dt>
     <dl>
