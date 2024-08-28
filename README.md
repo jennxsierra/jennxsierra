@@ -24,13 +24,13 @@
        🎵 <a href="https://www.youtube.com/watch?v=tlFolRo1WiE">Hide (CS01 Version)</a> - Dorian Concept 
     </dl>
     <dl>
-        🎮 EarthBound (SNES)
+        🎮 <a href="https://earthbound.fandom.com/wiki/EarthBound">EarthBound</a> (SNES)
     </dl>
     <dl>
-        🎥 Fight Club (1999)
+        🎥 <a href="https://www.youtube.com/watch?v=qtRKdVHc-cE">Fight Club (1999)</a>
     </dl>
     <dl>
-        📚 <em>The Song of Achilles</em> by Madeline Miller
+        📚 <a href="https://www.youtube.com/watch?v=iCXx9fzlm-Q"><em>The Song of Achilles</em></a> by Madeline Miller
     </dl>
 </dt>
 
