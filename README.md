@@ -7,7 +7,7 @@
     </dl>
     <dl>
         <img src="https://ubsc.acm.org/public/images/logos/ub_acm_logo_sm_transparent.gif" width="19px">
-        Chapter Officer for <a href="https://ubsc.acm.org/">UB ACM Student Chapter</a>
+        Chapter Chair for <a href="https://ubsc.acm.org/">UB ACM Student Chapter</a>
     </dl>
     <dl>
         <img src="https://shorturl.at/Hunbv" width="20px"> Retro Gaming Nerd
@@ -21,7 +21,7 @@
 
 <dt>
     <dl>
-       🎵 <a href="https://www.youtube.com/watch?v=tlFolRo1WiE">Hide (CS01 Version)</a> - Dorian Concept 
+       🎵 <a href="https://www.youtube.com/watch?v=tlFolRo1WiE">Hide (CS01 Version)</a> - Dorian Concept
     </dl>
     <dl>
         🎮 <a href="https://earthbound.fandom.com/wiki/EarthBound">EarthBound</a> (SNES)
@@ -36,10 +36,10 @@
 
 ## Skills & Experience <img src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif" height="28px">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,postgres,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,postgres,git,md,cmake&perline=9)](https://skillicons.dev)
 
 [![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=8)](https://wakatime.com/@jennxsierra)
 
 ## Learning Queue <img src="https://shorturl.at/3BELI" height="22px">
 
-[![Queue](https://skillicons.dev/icons?i=cs,py,tailwind,react,)](https://skillicons.dev)
+[![Queue](https://skillicons.dev/icons?i=cs,py,nextjs,tailwind,react&perline=9)](https://skillicons.dev)
