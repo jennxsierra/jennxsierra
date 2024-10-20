@@ -38,7 +38,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,postgres,git,md,cmake&perline=9)](https://skillicons.dev)
 
-[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=8)](https://wakatime.com/@jennxsierra)
+[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=10)](https://wakatime.com/@jennxsierra)
 
 ## Learning Queue <img src="https://shorturl.at/3BELI" height="22px">
 
