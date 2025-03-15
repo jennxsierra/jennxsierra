@@ -1,23 +1,21 @@
-# Hey there, I'm Jennessa Sierra! <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="35px">
+# Hey there, I'm Jennessa Sierra! <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="35px" alt="Waving Hand">
 
 <dt>
     <dl>
-        <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" width="19px">
-        IT Student at <a href="https://www.ub.edu.bz"> Univeristy of Belize</a>
+        <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" width="19px" alt="Pixel PC GIF"> IT Student at <a href="https://www.ub.edu.bz"> Univeristy of Belize</a>
     </dl>
     <dl>
-        <img src="https://ubsc.acm.org/public/images/logos/ub_acm_logo_sm_transparent.gif" width="19px">
-        Chapter Chair for <a href="https://ubsc.acm.org/">UB ACM Student Chapter</a>
+        <img src="https://ubsc.acm.org/public/images/logos/ub_acm_logo_sm_transparent.gif" width="19px" alt="ACM Logo"> Chapter Chair for <a href="https://ubsc.acm.org/">UB ACM Student Chapter</a>
     </dl>
     <dl>
-        <img src="https://shorturl.at/Hunbv" width="20px"> Retro Gaming Nerd
+        <img src="https://i.gifer.com/GYFz.gif" width="20px" alt="GBA GIF"> Retro Gaming Nerd
     </dl>
     <dl>
-        <img src="https://www.raspberrypi.org/app/uploads/2012/01/Spec-RaspberryPi-GIF-256-Transp.gif" width="20px"> Raspberry Pi Fanatic
+        <img src="https://www.raspberrypi.org/app/uploads/2012/01/Spec-RaspberryPi-GIF-256-Transp.gif" width="20px" alt="Raspberry Pi Logo GIF"> Raspberry Pi Fanatic
     </dl>  
 </dt>
 
-## All Time Favorites <img src="https://shorturl.at/i9PIv" height="18px">
+## All Time Favorites <img src="https://shorturl.at/i9PIv" height="18px" alt="5 Stars GIF">
 
 <dt>
     <dl>
@@ -34,12 +32,24 @@
     </dl>
 </dt>
 
-## Skills & Experience <img src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif" height="28px">
+## Skills & Experience <img src="https://img1.picmix.com/output/stamp/normal/7/6/3/6/2496367_4460b.gif" height="28px" alt="Pixel PC GIF">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,postgres,git,md,cmake&perline=9)](https://skillicons.dev)
+### Programming Languages
 
-[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=8)](https://wakatime.com/@jennxsierra)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,go,md&perline=9)](https://skillicons.dev)
 
-## Learning Queue <img src="https://shorturl.at/3BELI" height="22px">
+### Tools & Frameworks
 
-[![Queue](https://skillicons.dev/icons?i=cs,py,nextjs,tailwind,react&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cmake,nodejs,npm,express,postgres,git&perline=9)](https://skillicons.dev)
+
+### Operating Systems & IDEs
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,qt,clion,webstorm,windows,ubuntu,mint,figma&perline=9)](https://skillicons.dev)
+
+### Coding Stats
+
+[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=10)](https://wakatime.com/@jennxsierra)
+
+## Learning Queue <img src="https://shorturl.at/3BELI" height="22px" alt="Pixel Hourglass GIF">
+
+[![Queue](https://skillicons.dev/icons?i=cs,py,nextjs,tailwind,react&perline=5)](https://skillicons.dev)
