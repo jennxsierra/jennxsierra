@@ -15,7 +15,7 @@
     </dl>  
 </dt>
 
-## All Time Favorites <img src="https://shorturl.at/i9PIv" height="18px" alt="5 Stars GIF">
+## All Time Favorites <img src="https://i.giphy.com/yHkFwHXeSA9z6DYALc.webp" height="18px" alt="5 Stars GIF">
 
 <dt>
     <dl>
@@ -40,16 +40,18 @@
 
 ### Tools & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cmake,nodejs,npm,express,postgres,git&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cmake,nodejs,npm,express,postgres,git,figma&perline=9)](https://skillicons.dev)
 
 ### Operating Systems & IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,qt,clion,webstorm,windows,ubuntu,mint,figma&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,qt,clion,webstorm,windows,ubuntu,mint&perline=9)](https://skillicons.dev)
 
 ### Coding Stats
 
+[![wakatime](https://wakatime.com/badge/user/784f2cc4-fc95-4999-a214-1dcf7be5d55b.svg?style=plastic&color=595959)](https://wakatime.com/@784f2cc4-fc95-4999-a214-1dcf7be5d55b)
+
 [![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=10)](https://wakatime.com/@jennxsierra)
 
-## Learning Queue <img src="https://shorturl.at/3BELI" height="22px" alt="Pixel Hourglass GIF">
+## Learning Queue <img src="https://i.giphy.com/aYKTYtCYb2ECSKfyal.webp" height="22px" alt="Pixel Hourglass GIF">
 
-[![Queue](https://skillicons.dev/icons?i=cs,py,nextjs,tailwind,react&perline=5)](https://skillicons.dev)
+[![Queue](https://skillicons.dev/icons?i=cs,py,nextjs,tailwind,react,docker,mongodb&perline=9)](https://skillicons.dev)
