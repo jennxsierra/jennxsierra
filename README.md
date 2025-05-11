@@ -50,7 +50,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/784f2cc4-fc95-4999-a214-1dcf7be5d55b.svg?style=plastic&color=595959)](https://wakatime.com/@784f2cc4-fc95-4999-a214-1dcf7be5d55b)
 
-[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=10)](https://wakatime.com/@jennxsierra)
+[![Jenn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennxsierra&layout=compact&theme=github_dark&langs_count=8)](https://wakatime.com/@jennxsierra)
 
 ## Learning Queue <img src="https://i.giphy.com/aYKTYtCYb2ECSKfyal.webp" height="22px" alt="Pixel Hourglass GIF">
 
