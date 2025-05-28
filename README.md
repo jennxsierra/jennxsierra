@@ -5,9 +5,6 @@
         <img src="https://media.tenor.com/OEAjabUzGKEAAAAi/microsoft-computer.gif" width="19px" alt="Pixel PC GIF"> IT Student at <a href="https://www.ub.edu.bz"> Univeristy of Belize</a>
     </dl>
     <dl>
-        <img src="https://ubsc.acm.org/public/images/logos/ub_acm_logo_sm_transparent.gif" width="19px" alt="ACM Logo"> Chapter Chair for <a href="https://ubsc.acm.org/">UB ACM Student Chapter</a>
-    </dl>
-    <dl>
         <img src="https://i.gifer.com/GYFz.gif" width="20px" alt="GBA GIF"> Retro Gaming Nerd
     </dl>
     <dl>
